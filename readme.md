@@ -1,6 +1,16 @@
 # COMP2156_Group16_Assignment
 
-## 👥Our Work Breakdown Structure (WBS):
+## 👥Group Memebers
+| No. | Name | Student ID | GitHub Login Name |
+| :--- | :--- | :--- | :---: |
+|  1  | Yin Ki, Leung | 101501651 | elsalyk |
+|  2  | Ho Man, Cheung | 101542806 | Johnston-557 |
+|  3  | Paul, Madriaga | 101558928 | Sifumads |
+|  4  | Gabriel, Calo | 101432659 | y2K3nZ0 |
+|  5  | Vincent Pol, Agustin | 101504892 | vincepol |
+|  6  | Teerasak, Koseenam | 101501041 | Teerasak-Kosee |
+
+## 📊Our Work Breakdown Structure (WBS):
 | Part No. | Description | YinKi (Leader) | Johnston | Paul | Gabriel | Vincent | Teerasak |
 | :--- | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
 | **P1** | Group setup / Group Formation / Grp representative | ✅ |  |  |  |  |  |
@@ -30,4 +40,8 @@
 | 2026-02-13 | Johnston | 6 commits/Commits and File Edited | ✅ Done |
 | 2026-02-13 | Teerasak | 15 commits/Commits and File Edited | 🛠️ In Progress |
 | 2026-02-13 | YinKi | 5 commits/Commits and File Edited | ✅ Done |
+<<<<<<< HEAD
 | 2026-02-14 | Teerasak | 2 commits/Commits and File Edited | ✅ Done |
+=======
+| 2026-02-13 | Teerasak | 2 commits/Commits and File Edited | ✅ Done |
+>>>>>>> 03f2ebb043f65ff9782cf73bebd9d98461c3747c
