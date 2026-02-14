@@ -12,7 +12,7 @@
 
 ## 📊Our Work Breakdown Structure (WBS):
 | Part No. | Description | YinKi (Leader) | Johnston | Paul | Gabriel | Vincent | Teerasak |
-| :--- | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
 | **P1** | Group setup / Group Formation / Grp representative | ✅ |  |  |  |  |  |
 | **P2** | Git setup/ GitHub Repository Creation | ✅ |  |  |  |  |  |
 | **P3** | Collaborator setup | ✅ |  |  |  |  |  |
@@ -27,7 +27,7 @@
 
 ## 📝 Changelog / Work Log
 | Date | Member | Description | Status |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :---: |
 | 2026-01-28 | All members | Click Start Meeting | ✅ Done |
 | 2026-01-28 | YinKi | Git setup/GitHub Repository Creation/Collaborator setup | ✅ Done |
 | 2026-02-03 | YinKi | Individual Branch Creation /Branch Naming and Creation | ✅ Done |
@@ -40,8 +40,5 @@
 | 2026-02-13 | Johnston | 6 commits/Commits and File Edited | ✅ Done |
 | 2026-02-13 | Teerasak | 15 commits/Commits and File Edited | 🛠️ In Progress |
 | 2026-02-13 | YinKi | 5 commits/Commits and File Edited | ✅ Done |
-<<<<<<< HEAD
 | 2026-02-14 | Teerasak | 2 commits/Commits and File Edited | ✅ Done |
-=======
-| 2026-02-13 | Teerasak | 2 commits/Commits and File Edited | ✅ Done |
->>>>>>> 03f2ebb043f65ff9782cf73bebd9d98461c3747c
+
